@@ -53,8 +53,8 @@ const PasswordsPage = () => {
   };
 
   return (
-    <div className="bg-slate-200 w-full h-screen flex justify-center items-center">
-      <div className="bg- bg-white border border-gray-500 p-1 rounded">
+    <div className="bg-slate-200 w-full h-screen flex justify-center ">
+      <div className="mt-3.5 bg-white border border-gray-500 p-1 rounded max-h-65">
         <h2>Password Generate</h2>
         <hr />
         <div className="flex">
